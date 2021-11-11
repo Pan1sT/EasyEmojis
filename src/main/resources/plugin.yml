@@ -1,0 +1,6 @@
+name: EasyEmojis
+version: '${version}'
+main: me.pan1st.easyemojis.EasyEmojis
+api-version: 1.17
+authors: [ Pan1sT ]
+description: EasyEmojis ... add emojis easily ... maybe
